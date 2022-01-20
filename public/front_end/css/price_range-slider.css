@@ -1,0 +1,33 @@
+
+.ui-slider-horizontal {
+    width: 100%;
+    height: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.ui-widget-header {
+    background: #202020;
+}
+.ui-widget.ui-widget-content {border: 2px solid #202020; background: green}
+.ui-slider-handle.ui-corner-all.ui-state-default {
+    width: 30px;
+    height: 30px;
+    top: -12px;
+    border-radius: 100%;
+    background: #202020;
+    border: 1px solid #202020;
+}
+
+
+.price-range-field{
+    width: 100px;
+    height: 26px;
+    background-color:#202020; 
+    border: 1px solid #6e6666; 
+    color: #fff;
+    font-size: 15px;
+    border-radius: 5px; 
+    padding:5px;
+}
+
+
